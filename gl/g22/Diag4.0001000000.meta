@@ -1,0 +1,16 @@
+ simulation = { 'Tutorial Biogeo' };
+ nDims = [   3 ];
+ dimList = [
+   128,    1,  128,
+    64,    1,   64,
+    40,    1,   40
+ ];
+ dataprec = [ 'float32' ];
+ nrecords = [         15 ];
+ timeStepNumber = [    1000000 ];
+ timeInterval = [  0.000000000000E+00  4.320000000000E+10 ];
+ missingValue = [ -9.99000000000000E+02 ];
+ nFlds = [   15 ];
+ fldList = {
+ 'UVELMASS' 'VVELMASS' 'WVEL    ' 'THETA   ' 'SALT    ' 'PHIHYD  ' 'GM_PsiX ' 'GM_PsiY ' 'ADVx_TH ' 'ADVy_TH ' 'ADVr_TH ' 'DFxE_TH ' 'DFyE_TH ' 'DFrE_TH ' 'DFrI_TH '
+ };

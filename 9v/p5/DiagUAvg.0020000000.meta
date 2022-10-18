@@ -1,0 +1,15 @@
+ nDims = [   3 ];
+ dimList = [
+     5,    1,    5,
+    70,    1,   70,
+    40,    1,   40
+ ];
+ dataprec = [ 'float32' ];
+ nrecords = [         11 ];
+ timeStepNumber = [   20000000 ];
+ timeInterval = [  9.072000000000E+11  1.008000000000E+12 ];
+ missingValue = [ -9.99000000000000E+02 ];
+ nFlds = [   11 ];
+ fldList = {
+ 'USidDrag' 'Um_Diss ' 'Um_ImplD' 'Um_Advec' 'Um_Cori ' 'Um_dPhiX' 'Um_Ext  ' 'Um_AdvZ3' 'Um_AdvRe' 'AB_gU   ' 'TOTUTEND'
+ };

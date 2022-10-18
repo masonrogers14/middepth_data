@@ -1,0 +1,14 @@
+ nDims = [   2 ];
+ dimList = [
+     5,    1,    5,
+    70,    1,   70
+ ];
+ dataprec = [ 'float32' ];
+ nrecords = [          1 ];
+ timeStepNumber = [   10000000 ];
+ timeInterval = [  0.000000000000E+00  5.040000000000E+11 ];
+ missingValue = [ -9.99000000000000E+02 ];
+ nFlds = [    1 ];
+ fldList = {
+ 'ETAN    '
+ };

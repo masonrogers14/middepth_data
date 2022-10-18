@@ -1,0 +1,15 @@
+ nDims = [   3 ];
+ dimList = [
+     5,    1,    5,
+    70,    1,   70,
+    40,    1,   40
+ ];
+ dataprec = [ 'float32' ];
+ nrecords = [         13 ];
+ timeStepNumber = [   20000000 ];
+ timeInterval = [  8.064000000000E+11  1.008000000000E+12 ];
+ missingValue = [ -9.99000000000000E+02 ];
+ nFlds = [   13 ];
+ fldList = {
+ 'UVELMASS' 'VVELMASS' 'WVEL    ' 'THETA   ' 'PHIHYD  ' 'GM_PsiY ' 'ADVr_TH ' 'ADVy_TH ' 'DFrE_TH ' 'DFyE_TH ' 'DFrI_TH ' 'TOTTTEND' 'CONVADJ '
+ };
