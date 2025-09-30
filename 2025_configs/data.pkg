@@ -1,0 +1,9 @@
+# Packages
+ &PACKAGES
+ useDiagnostics = .TRUE. ,
+ usegmredi      = .TRUE.,
+ useRBCS        = .TRUE. ,
+ usePTRACERS    = .FALSE.,
+ useFLT         = .FASLE.,
+ useKPP         = .FALSE.,
+ &
